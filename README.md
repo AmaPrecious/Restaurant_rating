@@ -47,6 +47,11 @@ The data analysis for this project involved the utilization of various tools and
 
 Overall, a combination of technical skills in data manipulation and visualization, along with domain knowledge and critical thinking, were instrumental in conducting a comprehensive data analysis for the project.
 
+## Data Modelling
+
+![](https://github.com/AmaPrecious/Restaurant_rating/blob/main/Screenshot%202024-03-02%20at%2010.27.58%20AM.png)
+
+
 ## Visualization
 
  ![](CONSUMER%20DEMOGRAPHIC.jpg)
