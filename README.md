@@ -54,6 +54,8 @@ Overall, a combination of technical skills in data manipulation and visualizatio
 
 ## Visualization
 
+[click here](https://github.com/AmaPrecious/Restaurant_rating/blob/main/Restuarant%20rating%20consumers%20demographics.pbix) for the **Power Bi** dashboard.
+
  ![](CONSUMER%20DEMOGRAPHIC.jpg)
 
 1. There are 130 restaurants and 138 customers included in the analysis.
